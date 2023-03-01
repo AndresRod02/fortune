@@ -28,7 +28,7 @@ function App() {
 
     setIndex(Math.floor(Math.random() * ((phrases.length-1) - 0 + 1) + 0))
 
-     document.body.style.backgroundImage = `url(/public/${image[img]}.jpg)`;
+     document.body.style.backgroundImage = `url(/${image[img]}.jpg)`;
   }
   return (
     <div className="App">
