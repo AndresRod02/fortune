@@ -1,0 +1,26 @@
+[
+    {
+        "image": "/public/facebook.webp",
+        "domain": "https:www.facebook.com"
+    },
+    {
+        "image": "/public/twitter.webp",
+        "domain": "https:www.twitter.com"
+    },
+    {
+        "image": "/public/github.png",
+        "domain": "https:www.github.com"
+    },
+    {
+        "image": "/public/linkedin.png",
+        "domain": "https:www.linkedin.com"
+    },
+    {
+        "image": "/public/instagram.webp",
+        "domain": "https:www.instagram.com"
+    },
+    {
+        "image": "/public/portfolio.png",
+        "domain": "https:portfolioandres.netlify.app"
+    }
+]
