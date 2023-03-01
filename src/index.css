@@ -30,7 +30,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   justify-content: center;
-  background-image: url(/public/fondo1.jpg);
+  background-image: url(/fondo1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
