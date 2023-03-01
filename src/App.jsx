@@ -7,7 +7,7 @@ import social from './data/social.json'
 
 function App() {
   const image = ['fondo1', 'fondo2', 'fondo3', 'fondo4']
-  const [img, setImg] = useState(0)
+  const [img, setImg] = useState(1)
   const [index, setIndex] = useState(0)
   const [indexSocial, setIndexSocial] = useState(0)
   const changeFortune = () =>{
